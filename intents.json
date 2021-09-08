@@ -1,0 +1,41 @@
+{
+    "greet": 
+        "Hi there"
+    ,
+    "goodbye": 
+        "Bye! Come back again"
+    ,
+    "thanks": 
+        "You're most welcome!"
+    ,
+    "about": 
+		"I'm Joana, an Artificial Intelligent bot"
+	,
+    "name": 
+		"I'm Joana!" 
+	,
+	"help": 
+		"Yes Sure, How can I support you"
+	,
+    "createaccount": 
+		"Just go to our web site and follow the guidelines to create a new account"
+	,
+    "complaint": 
+		"Please mention your complaint, we will reach you and sorry for any inconvenience caused"
+	,
+	"corona_intro": 
+		"Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment."
+	,
+    "corona_vaccine": 
+		"A COVID‑19 vaccine is a vaccine intended to provide acquired immunity against severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2), the virus that causes coronavirus disease 2019 (COVID‑19)."
+	,
+    "corona_spread": 
+		"Current evidence suggests that the virus spreads mainly between people who are in close contact with each other, typically within 1 metre (short-range). A person can be infected when aerosols or droplets containing the virus are inhaled or come directly into contact with the eyes, nose, or mouth."
+	,
+	"corona_food_spread": 
+		"There's no evidence of anyone contracting the virus that causes COVID-19 after touching food containers and food packaging. Many restaurants are now offering no-contact takeout and delivery to lessen the risk of transmission."
+	,
+    "corona_prevention": 
+	"Clean your hands often. Use soap and water, or an alcohol-based hand rub. Maintain a safe distance from anyone who is coughing or sneezing. Wear a mask when physical distancing is not possible."
+	
+}

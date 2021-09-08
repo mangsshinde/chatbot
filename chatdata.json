@@ -1,0 +1,82 @@
+{
+	"greet": [
+		"Hi",
+		"Hey",
+		"Hello",
+		"Hola",
+		"Hi there"
+	],
+	"goodbye":[
+		"Bye",
+		"See you later",
+		"Goodbye"
+	],
+	"thanks": [
+		"Thanks",
+		"Thank you",
+		"That's helpful",
+		"Thanks for the help"
+	],
+	"about": [
+		"Who are you?",
+		"What are you?",
+		"Who you are?" 
+	],
+	"name": [
+		"what is your name",
+		"what should I call you",
+		"whats your name?"
+	],
+	"help": [
+		"Could you help me?",
+		"give me a hand please",
+		"Can you help?",
+		"What can you do for me?",
+		"I need a support", 
+		"I need a help", 
+		"support me please"
+	],
+	"createaccount": [
+		"I need to create a new account",
+		"how to open a new account",
+		"I want to create an account",
+		"can you create an account for me",
+		"how to open a new account"
+	],
+	"complaint": [
+		"have a complaint",
+		"I want to raise a complaint",
+		"there is a complaint about a service"
+	],
+	"corona_intro": [
+		"what is corona?",
+		"what is covid?",
+		"what is covid-19?",
+		"tell me about corona",
+		"can you tell me about corona?",
+		"can you define corona?"
+	],
+	"corona_vaccine": [
+		"what are covid vaccines?",
+		"is there any treatment for corona?",
+		"who are the manufacturers of vaccine?",
+		"is vaccine safe?"
+	],
+	"corona_spread": [
+		"how does corona spread?",
+		"how does the virus spread?",
+		"how does the pandemic spread?",
+		"does the virus spread through air?"
+	],
+	"corona_food_spread": [
+		"does corona spread from food?",
+		"how will corona spread from food?",
+		"does virus spread through foodstuffs like icecream and coldrinks?",
+		"does the virus contaminate food?"
+	],   
+	"corona_prevention": [
+		"what are precautions to be taken?",
+		"which mask should I wear?", 
+		"is sanitizer useful?"
+	]
+}
